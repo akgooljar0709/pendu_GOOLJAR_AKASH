@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/smain.dir/src/dico.c.o CMakeFiles/smain.dir/src/main.c.o  -o smain 
